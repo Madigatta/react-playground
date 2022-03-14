@@ -5,10 +5,10 @@
 /***************************************************************************** */
 //Exo2
 
-// const titre = "Hello World";
-// const element = <h1>{titre}</h1>
+const titre = "Hello World";
+const element = <h1>{titre}</h1>
 
-// ReactDOM.render(element, document.querySelector("#app"));
+ReactDOM.render(element, document.querySelector("#app"));
 
 // Exo3
 
